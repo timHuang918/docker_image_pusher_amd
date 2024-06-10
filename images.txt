@@ -15,7 +15,8 @@
 --platform=linux/amd64 nacos/nacos-server:v2.2.1-slim
 --platform=linux/amd64 jc21/nginx-proxy-manager:latest
 --platform=linux/amd64 chenzhaoyu94/chatgpt-web:latest
---platform=linux/amd64 dm8_single:v8.1.2.128_ent_x86_64_ctm_pack4
+--platform=linux/amd64 872694792/dm8_single:v8.1.2.128_ent_x86_64_ctm_pack4
+--platform=linux/amd64 apecloud/dm8_single:0.1.0
 --platform=linux/amd64 xhofe/alist:latest
 --platform=linux/amd64 emby/embyserver:latest
 --platform=linux/amd64 jellyfin/jellyfin:latest

@@ -1,5 +1,30 @@
-alpine
-python:alpine3.19
-kasmweb/nginx:1.25.3
---platform=linux/amd64 redis:7.0.15-alpine3.20
---platform=linux/arm/v7 redis:7.0.15-alpine3.20
+--platform=linux/amd64 nginx:1.25.1
+--platform=linux/amd64 mysql:8.0.15
+--platform=linux/amd64 redis:6.2.6
+--platform=linux/amd64 mongo:4.4.9
+--platform=linux/amd64 nickblah/postgis:15.2-postgis-3.3.2
+--platform=linux/amd64 zookeeper:3.5.9
+--platform=linux/amd64 confluentinc/cp-kafka:5.0.1
+--platform=linux/amd64 bitnami/kafka:3.6.1
+--platform=linux/amd64 pingcap/tidb:v7.3.0
+--platform=linux/amd64 ubuntu/zookeeper:3.1-22.04_edge
+--platform=linux/amd64 ubuntu/kafka:3.1-22.04_edge
+--platform=linux/amd64 hlebalbau/kafka-manager:3.0.0.5-7e7a22e
+--platform=linux/amd64 rabbitmq:3.10.25-management-alpine
+--platform=linux/amd64 elasticsearch:6.4.2
+--platform=linux/amd64 nacos/nacos-server:v2.2.1-slim
+--platform=linux/amd64 jc21/nginx-proxy-manager:latest
+--platform=linux/amd64 chenzhaoyu94/chatgpt-web:latest
+--platform=linux/amd64 dm8_single:v8.1.2.128_ent_x86_64_ctm_pack4
+--platform=linux/amd64 xhofe/alist:latest
+--platform=linux/amd64 emby/embyserver:latest
+--platform=linux/amd64 jellyfin/jellyfin:latest
+--platform=linux/amd64 gdy666/lucky:latest
+--platform=linux/amd64 diluka/nas-tools:2.9.1
+--platform=linux/amd64 johngong/qbittorrent:4.6.0-4.6.0.10
+--platform=linux/amd64 nyanmisaka/jellyfin:latest
+--platform=linux/amd64 allanpk716/chinesesubfinder:latest
+--platform=linux/amd64 linuxserver/jackett:latest
+--platform=linux/amd64 plexinc/pms-docker:latest
+--platform=linux/amd64 portainer/portainer-ce:2.20.3
+--platform=linux/amd64 xiaoyaliu/alist:latest

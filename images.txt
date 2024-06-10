@@ -1,0 +1,1 @@
+--platform=linux/amd64 bitnami/kafka:3.6.2

@@ -17,7 +17,10 @@
 --platform=linux/amd64 hlebalbau/kafka-manager:3.0.0.5-7e7a22e
 --platform=linux/amd64 rabbitmq:3.10.25-management-alpine
 --platform=linux/amd64 elasticsearch:6.4.2
+--platform=linux/amd64 elasticsearch:8.14.0
 --platform=linux/amd64 nacos/nacos-server:v2.2.1-slim
+--platform=linux/amd64 nacos/nacos-server:v2.3.2-slim
+--platform=linux/amd64 nacos/nacos-server:v2.1.1-slim
 --platform=linux/amd64 jc21/nginx-proxy-manager:latest
 --platform=linux/amd64 chenzhaoyu94/chatgpt-web:latest
 --platform=linux/amd64 872694792/dm8_single:v8.1.2.128_ent_x86_64_ctm_pack4

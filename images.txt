@@ -1,1 +1,1 @@
---platform=linux/amd64 pingcap/tidb:v7.1.0
+--platform=linux/amd64 pingcap/tidb:v6.5.0

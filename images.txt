@@ -1,1 +1,1 @@
---platform=linux/amd64 nickblah/postgis:15.2-postgis-3.3.2
+--platform=linux/amd64 pingcap/tidb:v8.1.0

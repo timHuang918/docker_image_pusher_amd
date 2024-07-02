@@ -1,1 +1,1 @@
---platform=linux/amd64 mysql:8.0.33
+--platform=linux/amd64 redis:5.0.4
